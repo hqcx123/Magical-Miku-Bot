@@ -1,5 +1,6 @@
 # 表情素材：因版权原因不随仓库分发，只保留目录结构
 plugins/miku_sticker/stickers/**/*
+!plugins/miku_sticker/stickers/**/
 !plugins/miku_sticker/stickers/**/.gitkeep
 
 # 插件运行时数据
