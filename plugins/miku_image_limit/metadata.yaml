@@ -1,0 +1,5 @@
+name: miku_image_limit
+desc: 限制单次 LLM 请求最多 3 张图片，避免群聊刷图撑爆上下文
+version: 1.0.0
+author: hqcx
+repo: ""

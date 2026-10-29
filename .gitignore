@@ -1,0 +1,25 @@
+# 表情素材：因版权原因不随仓库分发，只保留目录结构
+plugins/miku_sticker/stickers/**/*
+!plugins/miku_sticker/stickers/**/.gitkeep
+
+# 插件运行时数据
+plugins/miku_sticker/.collect_state.json
+plugins/miku_sticker/.debug.log
+plugins/miku_greeting/data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 配置与密钥（务必不要提交）
+config/
+*.key
+*.pem
+.env
+cmd_config.json
+data_v4.db
+*.db
+*.db-shm
+*.db-wal
