@@ -1,4 +1,4 @@
-# Miku AstrBot Plugins
+# Magical Miku Bot
 
 **English** | [简体中文](README.md)
 
