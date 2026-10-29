@@ -1,5 +1,11 @@
 # Miku AstrBot Plugins
 
+**简体中文** | [English](README.en.md)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![AstrBot](https://img.shields.io/badge/AstrBot-%3E%3D4.4.0-blue)](https://github.com/AstrBotDevs/AstrBot)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+
 给 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 用的三个初音未来风格插件，以及一份可直接使用的人格模板。
 
 > **非官方同人项目**。初音未来（Hatsune Miku）为 Crypton Future Media 的角色，本项目与其无任何关联，仅供学习与个人非商业使用。
