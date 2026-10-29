@@ -10,6 +10,8 @@ Three Hatsune Miku–styled plugins for [AstrBot](https://github.com/AstrBotDevs
 
 > **Unofficial fan project.** Hatsune Miku is a character of Crypton Future Media. This project is not affiliated with or endorsed by Crypton, SEGA, or any official party. For personal, non-commercial use only.
 
+![Nine emotion stickers: happy / shy / smug / angry / aggrieved / popcorn / goodnight / love / surprised](demo/sticker_preview.png)
+
 ## What's included
 
 | Plugin | What it does |
