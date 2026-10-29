@@ -21,7 +21,7 @@ def _is_image_part(part: object) -> bool:
 
 @register(
     "miku_image_limit",
-    "hqcx",
+    "qq:2757001649(有趣的生命)",
     "限制每次请求最多 3 张图，控制上下文膨胀",
     "1.0.0",
 )

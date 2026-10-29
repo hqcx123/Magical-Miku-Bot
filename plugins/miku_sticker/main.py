@@ -40,7 +40,7 @@ CLASSIFY_PROMPT = (
 
 @register(
     "miku_sticker",
-    "hqcx",
+    "qq:2757001649(有趣的生命)",
     "表情发送 + 指定群自动收集表情并按情绪分类",
     "1.1.0",
 )

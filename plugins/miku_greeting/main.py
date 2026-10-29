@@ -67,7 +67,7 @@ def _save_state(state):
         json.dump(state, f, ensure_ascii=False, indent=2)
 
 
-@register("miku_greeting", "hqcx", "定时早安晚安与节日彩蛋", "1.0.0")
+@register("miku_greeting", "qq:2757001649(有趣的生命)", "定时早安晚安与节日彩蛋", "1.0.0")
 class MikuGreeting(Star):
     def __init__(self, context: Context):
         super().__init__(context)
