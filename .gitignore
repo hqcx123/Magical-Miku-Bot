@@ -7,6 +7,7 @@ plugins/miku_sticker/stickers/**/*
 plugins/miku_sticker/.collect_state.json
 plugins/miku_sticker/.debug.log
 plugins/miku_greeting/data/
+*.log
 
 # Python
 __pycache__/
